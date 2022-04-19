@@ -1,4 +1,4 @@
-OpenCV==4.5.5
+cv2==4.5.5
 tensorflow==2.8.0
 matplotlib==3.5.1
 PIL==2.2.2
